@@ -1,1 +1,0 @@
-nome1, *Resto = ['Maria', 'Helena', 'Luiz']
