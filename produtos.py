@@ -6,7 +6,7 @@ posicao: int = 0
 valor: float = 0
 nome: str = ''
 selecionado: str = input("Selecione uma opção: \
-    [i]nserir, [a]pagar [l]istar: \n").lower()
+[i]nserir, [a]pagar [l]istar: \n").lower()
 
 def adicionar(lista):
     os.system('cls')
